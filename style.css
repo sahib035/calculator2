@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: #D2D2D2;
+    color: #fff;
+    height: 370px;
+    width: 260px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 90px;
+    }
+.btn{
+    height: auto;
+    width: 40px;
+    margin: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+    background-image: repeating-linear-gradient(rgba(110, 110, 105, 0.884) 50%, rgb(140, 143, 140) 200%);
+    color: black;
+}
+.display{
+    text-align: right;
+    font-weight: bold;
+    height: 60px;
+    background-image: repeating-linear-gradient(rgba(88, 88, 87, 0.884) 50%, rgb(149, 153, 149) 200%);
+}
